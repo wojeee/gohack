@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gohack/static/css/main.dce6501f.css",
+    "main.js": "/gohack/static/js/main.938cc806.js",
+    "static/js/787.9216035e.chunk.js": "/gohack/static/js/787.9216035e.chunk.js",
+    "static/media/container@3x.png": "/gohack/static/media/container@3x.b73fba980063d46246bc.png",
+    "index.html": "/gohack/index.html",
+    "main.dce6501f.css.map": "/gohack/static/css/main.dce6501f.css.map",
+    "main.938cc806.js.map": "/gohack/static/js/main.938cc806.js.map",
+    "787.9216035e.chunk.js.map": "/gohack/static/js/787.9216035e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dce6501f.css",
+    "static/js/main.938cc806.js"
+  ]
+}
